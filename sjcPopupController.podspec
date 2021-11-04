@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
     s.name         = 'sjcPopupController'
     s.version      = '0.0.1'
-    s.summary      = 'An easy way to use Pop'
+    s.summary      = 'An easy way to use Popddddddddddddd'
     s.description  = <<-DESC
                     - Extend your view controller from UIViewController, build it in your familiar way.
                     - Push/Pop view controller in to/out of popup view stack, and set navigation items by using self.navigationItem.leftBarButtonItem and rightBarButtonItem, just like you are using UINavigationController.
