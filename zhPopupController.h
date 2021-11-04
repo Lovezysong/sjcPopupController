@@ -10,7 +10,6 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-
 /// Control view mask style
 typedef NS_ENUM(NSUInteger, zhPopupMaskType) {
     zhPopupMaskTypeDarkBlur = 0,
