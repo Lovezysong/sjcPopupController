@@ -8,6 +8,6 @@ Pod::Spec.new do |s|
     s.authors      = {'song' => '2439194386@qq.com'}
     s.platform     = :ios, '9.0'
     s.source       = {:git => 'https://github.com/Lovezysong/sjcPopupController.git', :tag => s.version}
-    s.source_files = 'sjcPopupController/**/*.{h,m}'
+    s.source_files = 'sjcPopupController/*.{h,m}'
     s.requires_arc = true
 end
